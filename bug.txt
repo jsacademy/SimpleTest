@@ -1,8 +1,8 @@
-Hello Bug
+﻿Hello Bug
 
 hi buggy
 Hello Bug2
 Hello Bug3
 Hello bug4
 Hello Bug5
-Hello Wordcount
+hello Bug6
